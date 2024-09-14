@@ -16,15 +16,15 @@
     }
 
     .inner-div{
-        width: Fill (1,366px)px;
-        height: Hug (521px)px;
+        width: 100%;
+        height: 100%;
         gap: 48px;
         opacity: 0px;
 
 
         .heading{
-            width: Fill (1,366px)px;
-            height: Hug (41px)px;
+            width: 100%;
+            height: 100%;
             padding: 0px 120px 0px 120px;
             gap: 50px;
             opacity: 0px;
@@ -65,15 +65,15 @@
         }
 
         .all-features{
-            width: Fill (1,366px)px;
-            height: Hug (432px)px;
+            width: 100%;
+            height: 100%;
             padding: 0px 120px 0px 120px;
             gap: 48px;
             opacity: 0px;
 
             @media only screen and (max-width: 768px){
-                width: Fill (312px)px;
-                height: Hug (1,368px)px;
+                width: 100%;
+                height: 100%;
                 gap: 36px;
                 opacity: 0px;
 
@@ -104,8 +104,8 @@
     }
 
     .line-div{
-        width: Fill (1,366px)px;
-        height: Hug (2px)px;
+        width: 100%;
+        height: 100%;
         padding: 0px 120px 0px 120px;
         gap: 10px;
         opacity: 0px;
