@@ -1,6 +1,6 @@
 
 import './Manage.scss'
-import Form from '../Common/Form/Form'
+import Form from '../Form/Form'
 
 const Below = () => {
   return (

@@ -1,6 +1,6 @@
 import React from 'react'
 import './Banner.scss'
-import Form from '../Common/Form/Form'
+import Form from '../Form/Form'
 
 export const Banner = () => {
   return (

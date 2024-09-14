@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import './NavBar.scss'
-import { StartTrial } from '../Common/StartTrial/StartTrial';
+import { StartTrial } from '../StartTrial/StartTrial';
 import Logo from "../../assets/Logo.png";
 
 export const NavBar = () => {
